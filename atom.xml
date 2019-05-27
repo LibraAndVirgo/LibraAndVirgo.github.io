@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LibraAndVirgo.github.io/"/>
-  <updated>2019-05-27T03:48:31.165Z</updated>
+  <updated>2019-05-27T11:22:31.707Z</updated>
   <id>https://LibraAndVirgo.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>This is my second blog</title>
+    <link href="https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/"/>
+    <id>https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/</id>
+    <published>2019-05-27T11:09:27.787Z</published>
+    <updated>2019-05-27T11:22:31.707Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><table><thead><tr><th style="text-align:left">姓名</th><th style="text-align:center">年龄</th><th style="text-align:right">学历</th></tr></thead><tbody><tr><td style="text-align:left">张三</td><td style="text-align:center">17</td><td style="text-align:right">高中</td></tr><tr><td style="text-align:left">李四</td><td style="text-align:center">25</td><td style="text-align:right">硕士</td></tr><tr><td style="text-align:left">小李</td><td style="text-align:center">21</td><td style="text-align:right">本科</td></tr></tbody></table><hr><hr><ul><li>水果<ul><li>香蕉</li><li>菠萝</li></ul></li><li>衣服<ul><li>上衣</li><li>裤子</li></ul></li></ul><hr><hr><ol><li>牛奶</li><li>咖啡</li><li>果汁</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:left&quot;&gt;姓名&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;年龄&lt;/th&gt;
+&lt;th style=&quot;text-align:right
+      
+    
+    </summary>
+    
+      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
+    
+  </entry>
   
   <entry>
     <title>this is the truely first blog</title>
