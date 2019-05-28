@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LibraAndVirgo.github.io/"/>
-  <updated>2019-05-28T04:06:21.911Z</updated>
+  <updated>2019-05-27T02:45:30.366Z</updated>
   <id>https://LibraAndVirgo.github.io/</id>
   
   <author>
@@ -17,85 +17,10 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>这是我的第三篇博文</title>
-    <link href="https://LibraAndVirgo.github.io/2019/05/28/myblog0000000003/"/>
-    <id>https://LibraAndVirgo.github.io/2019/05/28/myblog0000000003/</id>
-    <published>2019-05-28T03:51:51.723Z</published>
-    <updated>2019-05-28T04:06:21.911Z</updated>
-    
-    <content type="html"><![CDATA[<p>摘要：今天经历了考试<br><a id="more"></a><br>正文：今天天气一般，媳妇儿告诉我她中午要来东区洗澡，我需要给她提供洗浴用品：沐浴露、毛巾、搓澡巾。她先回宿舍拿换洗的衣服，我在宿舍一会儿骑车子到大数据学院等媳妇儿。还有一件不同寻常的事：我拾取了一只耳机，还挺好的，我先等有没有人找我问这件事吧。。。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;摘要：今天经历了考试&lt;br&gt;
-    
-    </summary>
-    
-      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>This is my second blog</title>
-    <link href="https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/"/>
-    <id>https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/</id>
-    <published>2019-05-27T11:09:27.787Z</published>
-    <updated>2019-05-27T11:22:31.707Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a><table><thead><tr><th style="text-align:left">姓名</th><th style="text-align:center">年龄</th><th style="text-align:right">学历</th></tr></thead><tbody><tr><td style="text-align:left">张三</td><td style="text-align:center">17</td><td style="text-align:right">高中</td></tr><tr><td style="text-align:left">李四</td><td style="text-align:center">25</td><td style="text-align:right">硕士</td></tr><tr><td style="text-align:left">小李</td><td style="text-align:center">21</td><td style="text-align:right">本科</td></tr></tbody></table><hr><hr><ul><li>水果<ul><li>香蕉</li><li>菠萝</li></ul></li><li>衣服<ul><li>上衣</li><li>裤子</li></ul></li></ul><hr><hr><ol><li>牛奶</li><li>咖啡</li><li>果汁</li></ol>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;姓名&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;年龄&lt;/th&gt;
-&lt;th style=&quot;text-align:right
-      
-    
-    </summary>
-    
-      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>this is the truely first blog</title>
-    <link href="https://LibraAndVirgo.github.io/2019/05/27/myblog0000000001/"/>
-    <id>https://LibraAndVirgo.github.io/2019/05/27/myblog0000000001/</id>
-    <published>2019-05-27T03:15:02.631Z</published>
-    <updated>2019-05-27T03:48:31.165Z</updated>
-    
-    <content type="html"><![CDATA[<p>摘要:今天开心<br><a id="more"></a><br>正文:今天我终于自信地走出了第一步，做了一件自己想了很久的事，建立自己的blog，开心。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;摘要:今天开心&lt;br&gt;
-    
-    </summary>
-    
-      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="https://LibraAndVirgo.github.io/2019/05/27/hello-world/"/>
-    <id>https://LibraAndVirgo.github.io/2019/05/27/hello-world/</id>
-    <published>2019-05-27T02:45:30.366Z</published>
+    <link href="https://LibraAndVirgo.github.io/2019/05/28/hello-world01/"/>
+    <id>https://LibraAndVirgo.github.io/2019/05/28/hello-world01/</id>
+    <published>2019-05-28T04:13:27.470Z</published>
     <updated>2019-05-27T02:45:30.366Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
