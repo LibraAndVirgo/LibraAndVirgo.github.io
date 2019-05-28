@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LibraAndVirgo.github.io/"/>
-  <updated>2019-05-28T13:24:22.842Z</updated>
+  <updated>2019-05-28T13:34:42.903Z</updated>
   <id>https://LibraAndVirgo.github.io/</id>
   
   <author>
@@ -17,20 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>第四篇博文</title>
     <link href="https://LibraAndVirgo.github.io/2019/05/28/myblog0000000005/"/>
     <id>https://LibraAndVirgo.github.io/2019/05/28/myblog0000000005/</id>
     <published>2019-05-28T11:07:24.043Z</published>
-    <updated>2019-05-28T13:24:22.842Z</updated>
+    <updated>2019-05-28T13:34:42.903Z</updated>
     
-    <content type="html"><![CDATA[<p>title: 第四篇博文<br>一、标题写法：<br>第一种方法：<br>1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。<br>2、在文本下面加上 下划线 - ，那么上方的文本就变成了中标题，同样的 下划线个数无限制。<br>3、要想输入=号，上面有文本而不让其转化为大标题，则需要在两者之间加一个空行。<br>另一种方法：（推荐这种方法；注意⚠️中间需要有一个空格）<br>关于标题还有等级表示法，分为六个等级，显示的文本大小依次减小。不同等级之间是以井号  #  的个数来标识的。一级标题有一个 #，二级标题有两个# ，以此类推。<br>例如：</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>二、编辑基本语法<br>1、字体格式强调<br>我们可以使用下面的方式给我们的文本添加强调的效果<br><em>强调</em>  (示例：斜体)<br>_强调_  (示例：斜体)<br><strong>加重强调</strong>  (示例：粗体)<br><strong>加重强调</strong> (示例：粗体)<br><strong><em>特别强调</em></strong> (示例：粗斜体)<br><strong><em>特别强调</em></strong>  (示例：粗斜体)<br> 2、代码<br> <code>&lt;hello world&gt;</code><br> 3、代码块高亮  </p><pre><code>@Overrideprotected void onDestroy(){    EventBus.getDefault().unregister(this);        super.onDestroy();}</code></pre><p> 4、表格 （建议在表格前空一行，否则可能影响表格无法显示） </p><table><thead><tr><th>表头</th><th>表头</th><th>表头 </th></tr></thead><tbody><tr><td> 单元格内容</td><td>单元格内容</td><td>单元格内容</td></tr><tr><td> 单元格内容</td><td>单元格内容</td><td>单元格内容</td></tr></tbody></table><p> 5、其他引用<br> 图片<br> <img src="https://www.baidu.com/img/bd_logo1.png" alt="图片名称"><br> 链接<br> <a href="https://www.baidu.com/" target="_blank" rel="noopener">链接名称</a><br> 6、列表 </p><ol><li>项目1  </li><li>项目2  </li><li><p>项目3     </p><ul><li>项目1 （一个<em>号会显示为一个黑点，注意⚠️有空格，否则直接显示为</em>项目1）    </li><li>项目2  </li></ul><p>7、换行（建议直接在前一行后面补两个空格）<br>直接回车不能换行，<br>可以在上一行文本后面补两个空格，<br>这样下一行的文本就换行了。<br>或者就是在两行文本直接加一个空行。<br>也能实现换行效果，不过这个行间距有点大。</p><p>8、引用</p><blockquote><p>第一行引用文字<br>第二行引用文字   </p></blockquote></li></ol><hr><p>作者：LibraAndVirgo<br>来源：CSDN<br>原文：<a href="https://blog.csdn.net/qq_31796651/article/details/80803599" target="_blank" rel="noopener">https://blog.csdn.net/qq_31796651/article/details/80803599</a> </p>]]></content>
+    <content type="html"><![CDATA[<p>摘要：博文编写方法<br><a id="more"></a><br>一、标题写法：<br>第一种方法：<br>1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。<br>2、在文本下面加上 下划线 - ，那么上方的文本就变成了中标题，同样的 下划线个数无限制。<br>3、要想输入=号，上面有文本而不让其转化为大标题，则需要在两者之间加一个空行。<br>另一种方法：（推荐这种方法；注意⚠️中间需要有一个空格）<br>关于标题还有等级表示法，分为六个等级，显示的文本大小依次减小。不同等级之间是以井号  #  的个数来标识的。一级标题有一个 #，二级标题有两个# ，以此类推。<br>例如：</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>二、编辑基本语法<br>1、字体格式强调<br>我们可以使用下面的方式给我们的文本添加强调的效果<br><em>强调</em>  (示例：斜体)<br>_强调_  (示例：斜体)<br><strong>加重强调</strong>  (示例：粗体)<br><strong>加重强调</strong> (示例：粗体)<br><strong><em>特别强调</em></strong> (示例：粗斜体)<br><strong><em>特别强调</em></strong>  (示例：粗斜体)<br> 2、代码<br> <code>&lt;hello world&gt;</code><br> 3、代码块高亮  </p><pre><code>@Overrideprotected void onDestroy(){    EventBus.getDefault().unregister(this);        super.onDestroy();}</code></pre><p> 4、表格 （建议在表格前空一行，否则可能影响表格无法显示） </p><table><thead><tr><th>表头</th><th>表头</th><th>表头 </th></tr></thead><tbody><tr><td> 单元格内容</td><td>单元格内容</td><td>单元格内容</td></tr><tr><td> 单元格内容</td><td>单元格内容</td><td>单元格内容</td></tr></tbody></table><p> 5、其他引用<br> 图片<br> <img src="https://www.baidu.com/img/bd_logo1.png" alt="图片名称"><br> 链接<br> <a href="https://www.baidu.com/" target="_blank" rel="noopener">链接名称</a><br> 6、列表 </p><ol><li>项目1  </li><li>项目2  </li><li><p>项目3     </p><ul><li>项目1 （一个<em>号会显示为一个黑点，注意⚠️有空格，否则直接显示为</em>项目1）    </li><li>项目2  </li></ul><p>7、换行（建议直接在前一行后面补两个空格）<br>直接回车不能换行，<br>可以在上一行文本后面补两个空格，<br>这样下一行的文本就换行了。<br>或者就是在两行文本直接加一个空行。<br>也能实现换行效果，不过这个行间距有点大。</p><p>8、引用</p><blockquote><p>第一行引用文字<br>第二行引用文字   </p></blockquote></li></ol><hr><p>作者：LibraAndVirgo<br>来源：CSDN<br>原文：<a href="https://blog.csdn.net/qq_31796651/article/details/80803599" target="_blank" rel="noopener">https://blog.csdn.net/qq_31796651/article/details/80803599</a> </p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;title: 第四篇博文&lt;br&gt;一、标题写法：&lt;br&gt;第一种方法：&lt;br&gt;1、在文本下面加上 等于号 = ，那么上方的文本就变成了大标题。等于号的个数无限制，但一定要大于0个哦。。&lt;br&gt;2、在文本下面加上 下划线 - ，那么上方的文本就变成了中标题，同样的 下划线个数无限
-      
+      &lt;p&gt;摘要：博文编写方法&lt;br&gt;
     
     </summary>
     
@@ -86,29 +83,20 @@
     <link href="https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/"/>
     <id>https://LibraAndVirgo.github.io/2019/05/27/myblog0000000002/</id>
     <published>2019-05-27T11:09:27.787Z</published>
-    <updated>2019-05-27T11:22:31.707Z</updated>
+    <updated>2019-05-28T13:36:20.006Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><table><thead><tr><th style="text-align:left">姓名</th><th style="text-align:center">年龄</th><th style="text-align:right">学历</th></tr></thead><tbody><tr><td style="text-align:left">张三</td><td style="text-align:center">17</td><td style="text-align:right">高中</td></tr><tr><td style="text-align:left">李四</td><td style="text-align:center">25</td><td style="text-align:right">硕士</td></tr><tr><td style="text-align:left">小李</td><td style="text-align:center">21</td><td style="text-align:right">本科</td></tr></tbody></table><hr><hr><ul><li>水果<ul><li>香蕉</li><li>菠萝</li></ul></li><li>衣服<ul><li>上衣</li><li>裤子</li></ul></li></ul><hr><hr><ol><li>牛奶</li><li>咖啡</li><li>果汁</li></ol>]]></content>
+    <content type="html"><![CDATA[<p>摘要：学习博客编写方法<br><a id="more"></a><br>| 姓名 | 年龄 | 学历 |<br>|:—|:—:|—:|<br>| 张三 | 17 | 高中 |<br>| 李四 | 25 | 硕士 |<br>| 小李 | 21 | 本科 |</p><hr><hr><ul><li>水果<ul><li>香蕉</li><li>菠萝</li></ul></li><li>衣服<ul><li>上衣</li><li>裤子</li></ul></li></ul><hr><hr><ol><li>牛奶</li><li>咖啡</li><li>果汁</li></ol>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&quot;text-align:left&quot;&gt;姓名&lt;/th&gt;
-&lt;th style=&quot;text-align:center&quot;&gt;年龄&lt;/th&gt;
-&lt;th style=&quot;text-align:right
-      
+      &lt;p&gt;摘要：学习博客编写方法&lt;br&gt;
     
     </summary>
     
       <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
     
     
-      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
+      <category term="learning" scheme="https://LibraAndVirgo.github.io/tags/learning/"/>
     
   </entry>
   
