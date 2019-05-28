@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LibraAndVirgo.github.io/"/>
-  <updated>2019-05-27T11:22:31.707Z</updated>
+  <updated>2019-05-28T04:06:21.911Z</updated>
   <id>https://LibraAndVirgo.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是我的第三篇博文</title>
+    <link href="https://LibraAndVirgo.github.io/2019/05/28/myblog0000000003/"/>
+    <id>https://LibraAndVirgo.github.io/2019/05/28/myblog0000000003/</id>
+    <published>2019-05-28T03:51:51.723Z</published>
+    <updated>2019-05-28T04:06:21.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：今天经历了考试<br><a id="more"></a><br>正文：今天天气一般，媳妇儿告诉我她中午要来东区洗澡，我需要给她提供洗浴用品：沐浴露、毛巾、搓澡巾。她先回宿舍拿换洗的衣服，我在宿舍一会儿骑车子到大数据学院等媳妇儿。还有一件不同寻常的事：我拾取了一只耳机，还挺好的，我先等有没有人找我问这件事吧。。。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：今天经历了考试&lt;br&gt;
+    
+    </summary>
+    
+      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="happy" scheme="https://LibraAndVirgo.github.io/tags/happy/"/>
+    
+  </entry>
   
   <entry>
     <title>This is my second blog</title>
