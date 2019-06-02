@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://LibraAndVirgo.github.io/"/>
-  <updated>2019-06-01T13:21:03.082Z</updated>
+  <updated>2019-06-02T02:57:34.248Z</updated>
   <id>https://LibraAndVirgo.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第十一篇博文</title>
+    <link href="https://LibraAndVirgo.github.io/2019/06/02/myblog0000000011/"/>
+    <id>https://LibraAndVirgo.github.io/2019/06/02/myblog0000000011/</id>
+    <published>2019-06-02T02:56:56.908Z</published>
+    <updated>2019-06-02T02:57:34.248Z</updated>
+    
+    <content type="html"><![CDATA[<p>摘要：和媳妇儿一起学习</p><a id="more"></a><p><strong>我爱媳妇儿</strong></p><hr><h1 id="第一"><a href="#第一" class="headerlink" title="第一"></a>第一</h1><h2 id="第二"><a href="#第二" class="headerlink" title="第二"></a>第二</h2><p>我爱我<a href="美丽动人的胡岚女士。">^媳妇儿</a>。</p><hr><ol><li>6月1日:  </li></ol><ul><li><p>我媳妇儿写下了这行</p></li><li><p>我媳妇儿最厉害</p></li><li>牛木头真傻</li></ul><hr><blockquote><p>我</p><blockquote><p>媳妇儿</p><blockquote><p>说</p><blockquote><p>我</p><blockquote><p>是个</p><blockquote><p>牛</p><blockquote><p>木头</p></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote></blockquote><hr><blockquote><p>总结：</p><ol><li>媳妇儿说我是牛木头</li><li>我说不过媳妇儿<ul><li>我认错</li><li>我知错</li><li>我改错</li><li>只要今后</li><li>都是这个人</li><li>在骂我</li></ul></li></ol></blockquote><hr><p>据说链接也可以用变量来代替，文档末尾附带变量地址：</p><p>这个链接我打算用‘度娘’作为网址变量<a href="http://www.baidu.com/" target="_blank" rel="noopener">Baidu</a></p><p>而这个链接我打算用runoob作为网址变量<a href="http://www.runoob.com/" target="_blank" rel="noopener">Runoob</a></p><p>然后在文档结尾为变量赋值（网址）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;摘要：和媳妇儿一起学习&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="日志" scheme="https://LibraAndVirgo.github.io/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+      <category term="learning" scheme="https://LibraAndVirgo.github.io/tags/learning/"/>
+    
+  </entry>
   
   <entry>
     <title>第十篇博文</title>
